@@ -13,7 +13,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [tool.uv.workspace]
-members = ["practica3/src"]
+members = ["ej44/src"]
 
 [tool.hatch.metadata]
 allow-direct-references = true
